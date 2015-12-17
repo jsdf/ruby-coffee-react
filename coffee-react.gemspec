@@ -21,6 +21,7 @@ Gem::Specification.new do |s|
     'lib/coffee-react.rb',
     'lib/coffee_react.rb',
     'coffee-react-transform.js',
+    'js-syntax-transform.js',
     'LICENSE',
     'README.md'
   ]
