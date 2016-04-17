@@ -1,6 +1,6 @@
 {
   "name": "ruby-coffee-react",
-  "version": "3.4.0",
+  "version": "4.0.0",
   "description": "ruby-coffee-react is a bridge to the npm coffee-react-transform module, and can compile Coffeescript also",
   "main": "index.js",
   "directories": {
