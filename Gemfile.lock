@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    coffee-react (3.4.0)
+    coffee-react (4.0.0)
       execjs
 
 GEM
@@ -26,4 +26,4 @@ DEPENDENCIES
   therubyracer
 
 BUNDLED WITH
-   1.10.6
+   1.11.2
